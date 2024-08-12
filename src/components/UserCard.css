@@ -1,0 +1,16 @@
+.user-card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+  }
+  
+  .user-card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .user-card p {
+    margin: 5px 0;
+  }
+  

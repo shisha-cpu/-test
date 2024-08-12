@@ -1,0 +1,15 @@
+.user-directory {
+    display: flex;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-directory .user-table {
+    flex: 1;
+  }
+  
+  .user-directory .user-card {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
